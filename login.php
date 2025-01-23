@@ -209,7 +209,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <select class="form-control" name="level">
                             <option>Masuk sebagai</option>
                             <option value="1">Guru</option>
-                            <option value="2">Siswa</option>
                             <option value="3">Admin</option>
 
                         </select>
